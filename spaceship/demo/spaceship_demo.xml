@@ -13,7 +13,7 @@
            <field name="ship_type">large</field> 
         </record>
         
-         <record model="spaceship" id="large_1">
+         <record model="spaceship" id="small_1">
            <field name="name">Small 1</field>
            <field name="description">First ship holding small crews</field> 
            <field name="ship_type">small</field> 

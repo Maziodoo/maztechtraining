@@ -4,19 +4,19 @@
         <record model="spaceship" id="large_1">
            <field name="name">Large 1</field>
            <field name="description">First ship holding large crews</field> 
-           <field name="ship_type">Large</field> 
+           <field name="ship_type">large</field> 
         </record>
         
         <record model="spaceship" id="large_2">
            <field name="name">Large 2</field>
            <field name="description">Second ship holding large crews</field> 
-           <field name="ship_type">Large</field> 
+           <field name="ship_type">large</field> 
         </record>
         
          <record model="spaceship" id="large_1">
            <field name="name">Small 1</field>
            <field name="description">First ship holding small crews</field> 
-           <field name="ship_type">Small</field> 
+           <field name="ship_type">small</field> 
         </record>
         
     </data>
